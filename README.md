@@ -7,14 +7,15 @@
 | 幫 | 輕脣韻 f _ b |
 | 滂 | 輕脣韻 f _ p |
 | 並 | 輕脣韻 f 平 p 仄 b |
-| 明 | m |
+| 明 | 輕脣音接ei韻者 v 其他 Ø|
 | 端 | d |
 | 透 | t |
 | 定 | 平 t 仄 d |
 | 泥 | n |
 | 孃 | nj（泥你您除外）|
 | 來 | l |
-
+| 日 | 止攝開口 er （即零聲母）其他 r|
+| 疑 | 今開 ng 今齊 ny 今合 Ø 今撮 | 
 <table>
 <thead>
 <tr><th>攝</th><th style="white-space: nowrap;">開合/等/韻</th><th>聲紐</th><th style="white-space: nowrap;">優勢韻母</th><th>例字</th></tr>
